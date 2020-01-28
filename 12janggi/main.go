@@ -4,10 +4,9 @@ import (
 	"log"
 
 	"github.com/hajimehoshi/ebiten"
-
-	"./scenes"
-	"./scenemanager"
-	"./global"
+	"github.com/tuckersGo/12janggi/game6/global"
+	"github.com/tuckersGo/12janggi/game6/scenemanager"
+	"github.com/tuckersGo/12janggi/game6/scenes"
 	
 )
 

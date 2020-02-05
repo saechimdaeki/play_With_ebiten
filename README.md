@@ -1,4 +1,4 @@
-# GameProgramming_Go
+# play with ebiten 
  Making many simple games with Go language
 
 ### I will use ebiten
